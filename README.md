@@ -4,7 +4,7 @@ developing in the rocketseat bootcamp.
 ## What does it do ?
 Make an api, connect in postgreSQL and set up with sequelize,
 this creates the user and validates their information with rules and middlewares and generates a security token,
-doing some rotes:
+doing some routes:
  
  #### create(to create a new user)
  #### uptade(to change password and some information)
